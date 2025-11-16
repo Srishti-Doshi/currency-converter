@@ -1,9 +1,20 @@
-# 📘 Currency Converter  
+# Currency Converter  
 A mini project created to **learn and practice core JavaScript concepts** such as **Fetch API**, **events**, and **DOM manipulation**, while building a simple and interactive real-time currency converter.
 
 ---
 
-## 🚀 Features  
+## Live Demo  
+https://srishti-doshi.github.io/currency-converter/
+
+---
+
+## 🖼️ Project Screenshot
+
+![Currency Converter Screenshot](https://github.com/Srishti-Doshi/currency-converter/blob/main/snapshot.png?raw=true)
+
+---
+
+## Features  
 - Real-time currency conversion  
 - Fetches live exchange rates using API  
 - Event-based interactions  
@@ -12,28 +23,18 @@ A mini project created to **learn and practice core JavaScript concepts** such a
 
 ---
 
-## 🛠️ Technologies & Concepts Used  
+## Technologies & Concepts Used  
 - **HTML** – Structure  
 - **CSS** – Styling  
 - **JavaScript**  
   - Fetch API  
   - DOM Manipulation  
   - Events (click, change, input)  
-- Exchange Rate API  
+- Exchange Rate API - "https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@latest/v1/currencies"
 
 ---
 
-## 📂 Project Structure  
-currency-converter/
-│── index.html
-│── style.css
-│── app.js
-│── codes.js
-└── README.md
-
----
-
-## 🔧 How It Works  
+## How It Works  
 1. User selects currencies  
 2. User enters the amount  
 3. JavaScript fetches the exchange rate  
@@ -41,14 +42,13 @@ currency-converter/
 
 ---
 
-## 📦 Installation  
+## Installation  
 Clone the repository: git clone https://github.com/Srishti-Doshi/currency-converter.git
 Open `index.html` in any browser.
 
-## 🌍 Live Demo  
-Will be added after GitHub Pages deployment.
+---
 
-## 💡 Project Purpose  
+## Project Purpose  
 This mini project was built **for learning**, focusing on:  
 - Handling APIs  
 - Using events effectively  
